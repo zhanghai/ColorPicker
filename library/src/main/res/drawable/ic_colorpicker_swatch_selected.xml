@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2019 Hai Zhang <dreaming.in.code.zh@gmail.com>
+  ~ All Rights Reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <path
+        android:fillColor="#1F000000"
+        android:pathData="M 39,24 A 15,15 0 0 1 24,39 15,15 0 0 1 9,24 15,15 0 0 1 24,9 15,15 0 0 1 39,24 Z" />
+
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 21,28.17 16.83,24 15.41,25.41 21,31 33,19 31.59,17.59 Z" />
+</vector>
